@@ -1,0 +1,152 @@
+Category,Name,Link,Attempt Number,Time Spent
+Arrays and Hashing,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,0,0
+Arrays and Hashing,Valid Anagram,https://leetcode.com/problems/valid-anagram/,0,0
+Arrays and Hashing,Two Sum,https://leetcode.com/problems/two-sum/,0,0
+Arrays and Hashing,Group Anagrams,https://leetcode.com/problems/group-anagrams/,0,0
+Arrays and Hashing,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,0,0
+Arrays and Hashing,"Product of Array Except Self	
+",https://leetcode.com/problems/product-of-array-except-self/,0,0
+Arrays and Hashing,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,0,0
+Arrays and Hashing,Encode and Decode Strings,https://leetcode.com/accounts/login/?next=/problems/encode-and-decode-strings/,0,0
+Arrays and Hashing,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,0,0
+Two Pointers,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,0,0
+Two Pointers,Two Sum II,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,0,0
+Two Pointers,3Sum,https://leetcode.com/problems/3sum/,0,0
+Two Pointers,Container with Most Water,https://leetcode.com/problems/container-with-most-water/,0,0
+Two Pointers,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,0,0
+Sliding Window,Best Time to Buy & Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,0,0
+Sliding Window,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,0,0
+Sliding Window,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,0,0
+Sliding Window,Permutation in String,https://leetcode.com/problems/permutation-in-string/,0,0
+Sliding Window,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,0,0
+Sliding Window,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,0,0
+Stack,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,0,0
+Stack,Min Stack,https://leetcode.com/problems/min-stack/,0,0
+Stack,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,0,0
+Stack,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,0,0
+Stack,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,0,0
+Stack,Car Fleet,https://leetcode.com/problems/car-fleet/,0,0
+Stack,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,0,0
+Binary Search,Binary Search,https://leetcode.com/problems/binary-search/,0,0
+Binary Search,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,0,0
+Binary Search,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,0,0
+Binary Search,Search Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,0,0
+Binary Search,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,0,0
+Binary Search,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,0,0
+Binary Search,Find Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,0,0
+Linked List,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,0,0
+Linked List,Merge Two Linked Lists,https://leetcode.com/problems/merge-two-sorted-lists/,0,0
+Linked List,Reorder List,https://leetcode.com/problems/reorder-list/,0,0
+Linked List,Remove Nth Node from End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,0,0
+Linked List,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,0,0
+Linked List,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,0,0
+Linked List,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,0,0
+Linked List,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,0,0
+Linked List,LRU Cache,https://leetcode.com/problems/lru-cache/,0,0
+Linked List,Merge K Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,0,0
+Linked List,Reverse Nodes in K-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,0,0
+Trees,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,0,0
+Trees,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,0,0
+Trees,Diameter of a Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,0,0
+Trees,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,0,0
+Trees,Same Tree,https://leetcode.com/problems/same-tree/,0,0
+Trees,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,0,0
+Trees,Lowest Common Ancestor of a BST,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,0,0
+Trees,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,0,0
+Trees,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,0,0
+Trees,Count Good Nodes in a Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,0,0
+Trees,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,1,23
+Trees,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,0,0
+Trees,Construct Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,0,0
+Trees,Binary Tree Max Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,0,0
+Trees,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,0,0
+Tries,Implement Trie,https://leetcode.com/problems/implement-trie-prefix-tree/,0,0
+Tries,Design Add and Search Word Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,0,0
+Tries,Word Search II,https://leetcode.com/problems/word-search-ii/,0,0
+Heap / Priority Queue,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,0,0
+Heap / Priority Queue,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,0,0
+Heap / Priority Queue,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,0,0
+Heap / Priority Queue,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,0,0
+Heap / Priority Queue,Task Scheduler,https://leetcode.com/problems/task-scheduler/,0,0
+Heap / Priority Queue,Design Twitter,https://leetcode.com/problems/design-twitter/,0,0
+Heap / Priority Queue,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,0,0
+Backtracking,Subsets,https://leetcode.com/problems/subsets/,0,0
+Backtracking,Combination Sum,https://leetcode.com/problems/combination-sum/,0,0
+Backtracking,Permutations,https://leetcode.com/problems/permutations/,0,0
+Backtracking,Subsets II,https://leetcode.com/problems/subsets-ii/,0,0
+Backtracking,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,0,0
+Backtracking,Word Search,https://leetcode.com/problems/word-search/,0,0
+Backtracking,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,0,0
+Backtracking,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,0,0
+Backtracking,N-Queens,https://leetcode.com/problems/n-queens/,0,0
+Graphs,Number of Islands,https://leetcode.com/problems/number-of-islands/,0,0
+Graphs,Clone Graph,https://leetcode.com/problems/clone-graph/,0,0
+Graphs,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,0,0
+Graphs,Pacific Atlantic Waterflow,https://leetcode.com/problems/pacific-atlantic-water-flow/,0,0
+Graphs,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,0,0
+Graphs,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,0,0
+Graphs,Walls and Gates,https://leetcode.com/problems/walls-and-gates/,0,0
+Graphs,Course Schedule,https://leetcode.com/problems/course-schedule/,0,0
+Graphs,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,1,18
+Graphs,Redundant Connection,https://leetcode.com/problems/redundant-connection/,0,0
+Graphs,Number of Connected Components in Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,0,0
+Graphs,Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,0,0
+Graphs,Word Ladder,https://leetcode.com/problems/word-ladder/,0,0
+Advanced Graphs,Reconstruct Itinerary,https://leetcode.com/problems/reconstruct-itinerary/,0,0
+Advanced Graphs,Min Cost to Connect all Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,0,0
+Advanced Graphs,Network Delay Time,https://leetcode.com/problems/network-delay-time/,0,0
+Advanced Graphs,Swim in Rising Water,https://leetcode.com/problems/swim-in-rising-water/,0,0
+Advanced Graphs,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,0,0
+Advanced Graphs,Cheapest Flights with K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,0,0
+1-D Dynamic Programming,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,0,0
+1-D Dynamic Programming,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,0,0
+1-D Dynamic Programming,House Robber,https://leetcode.com/problems/house-robber/,0,0
+1-D Dynamic Programming,House Robber II,https://leetcode.com/problems/house-robber-ii/,0,0
+1-D Dynamic Programming,Longest Palindroming Substring,https://leetcode.com/problems/longest-palindromic-substring/,0,0
+1-D Dynamic Programming,Palindrome Substrings,https://leetcode.com/problems/palindromic-substrings/,0,0
+1-D Dynamic Programming,Decode Ways,https://leetcode.com/problems/decode-ways/,0,0
+1-D Dynamic Programming,Coin Change,https://leetcode.com/problems/coin-change/,0,0
+1-D Dynamic Programming,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,0,0
+1-D Dynamic Programming,Word Break,https://leetcode.com/problems/word-break/,0,0
+1-D Dynamic Programming,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,0,0
+1-D Dynamic Programming,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,0,0
+2-D Dynamic Programming,Unique Paths,https://leetcode.com/problems/unique-paths/,0,0
+2-D Dynamic Programming,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,0,0
+2-D Dynamic Programming,Best Time to Buy/Sell Stock With Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,0,0
+2-D Dynamic Programming,Coin Change II,https://leetcode.com/problems/coin-change-2/,0,0
+2-D Dynamic Programming,Target SUm,https://leetcode.com/problems/target-sum/,0,0
+2-D Dynamic Programming,Interleaving String,https://leetcode.com/problems/interleaving-string/,0,0
+2-D Dynamic Programming,Longest Increasing Path in a Matrix,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,0,0
+2-D Dynamic Programming,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,0,0
+2-D Dynamic Programming,Edit Distance,https://leetcode.com/problems/edit-distance/,0,0
+2-D Dynamic Programming,Burst Balloons,https://leetcode.com/problems/burst-balloons/,0,0
+2-D Dynamic Programming,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,0,0
+Greedy,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,0,0
+Greedy,Jump Game,https://leetcode.com/problems/jump-game/,0,0
+Greedy,Jump Game II,https://leetcode.com/problems/jump-game-ii/,0,0
+Greedy,Gas Station,https://leetcode.com/problems/gas-station/,0,0
+Greedy,Hand of Straights,https://leetcode.com/problems/hand-of-straights/,0,0
+Greedy,Merge Triplets to Form Target Triplet,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,0,0
+Greedy,Partition Labels,https://leetcode.com/problems/partition-labels/,0,0
+Greedy,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,0,0
+Intervals,Insert Interval,https://leetcode.com/problems/insert-interval/,0,0
+Intervals,Merge Intervals,https://leetcode.com/problems/merge-intervals/,0,0
+Intervals,Non-Overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,0,0
+Intervals,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,0,0
+Intervals,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,0,0
+Intervals,Minimum Interval to Include Each Query,https://leetcode.com/problems/minimum-interval-to-include-each-query/,0,0
+Math & Geometry,Rotate Image,https://leetcode.com/problems/rotate-image/,0,0
+Math & Geometry,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,0,0
+Math & Geometry,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,0,0
+Math & Geometry,Happy Number,https://leetcode.com/problems/happy-number/,0,0
+Math & Geometry,Plus One,https://leetcode.com/problems/plus-one/,0,0
+Math & Geometry,"Pow(x, n)",https://leetcode.com/problems/powx-n/,0,0
+Math & Geometry,Multiply Strings,https://leetcode.com/problems/multiply-strings/,0,0
+Math & Geometry,Detect Squares,https://leetcode.com/problems/detect-squares/,0,0
+Bit Manipulation,Single Number,https://leetcode.com/problems/single-number/,0,0
+Bit Manipulation,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,0,0
+Bit Manipulation,Counting Bits,https://leetcode.com/problems/counting-bits/,0,0
+Bit Manipulation,Reverse Bits,https://leetcode.com/problems/reverse-bits/,0,0
+Bit Manipulation,Missing Number,https://leetcode.com/problems/missing-number/,0,0
+Bit Manipulation,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,0,0
+Bit Manipulation,Reverse Integer,https://leetcode.com/problems/reverse-integer/,0,0
