@@ -1,0 +1,2 @@
+A short python script to choose a weighted random leetcode problem out of the neetcode 150 problem list. Higher number of attempts on the problem will make it less likely to be shown again. A simple GUI is made using python's tkinter.
+The purpose of this script is to eliminate the friction of choosing a problem to tackle, while also confining it to the fundamental problems (out of the 150 problems list)
